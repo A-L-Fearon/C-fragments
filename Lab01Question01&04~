@@ -1,0 +1,10 @@
+Question1
+
+The code crashed at line 19. This was due to a zero division being carried out in the program.
+The code was compiles using the -g to prepare it for debugging. break was then used to to find where the error was occuring.
+
+
+Question4
+
+The output will be the number 9.
+
